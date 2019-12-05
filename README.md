@@ -1,4 +1,4 @@
-<p><img src="https://raw.githubusercontent.com/gohornet/mascot/master/logo.svg" width="360"></p>
+<p><img src="https://raw.githubusercontent.com/gohornet/mascot/master/logo.svg?sanitize=true" width="360"></p>
 
 ## Licence
 The "Go Gopher" was originally designed by Renee French. [https://github.com/keygx/Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector)
